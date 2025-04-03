@@ -1,5 +1,5 @@
 ### English Phrases Bot
-This utility allows sending phrases to a Telegram channel.
+This educational utility allows sending gapped sentences to a Telegram channel.
 
 ![img.png](img.png)
 
